@@ -1,0 +1,35 @@
+.naslov{ 
+    color: rgb(245, 143, 41)
+ }
+
+ #pozadina{
+    background-color: rgb(37, 155, 245);
+ }
+
+ h1{
+    font-size: 42px;
+ }
+
+ h1{
+    color: blue;
+}
+
+.parent{
+    font-size: 24px;
+}
+
+.child{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+    color: rgb(7, 7, 7);
+}
+
+h3{
+    background-color: rgb(24, 173, 173);
+}
